@@ -1,0 +1,106 @@
+body{
+	font-family: arial;
+	font-size: 14px;
+}
+.d1{
+	
+}
+.d11{
+	display: inline-block;
+	padding-right: 30px;
+	vertical-align: top;
+}
+.d11>*{
+	display: inline-block;
+}
+.diva1{
+	height: 30px;
+	width: 30px;
+}
+.divc1{
+	height: 30px;
+	width: 150px;
+	text-align: left;
+	padding-left: 10px;
+}
+.d22{
+	display: inline-block;
+	padding-right: 30px;
+	vertical-align: top;
+}
+.d22>*{
+	display: inline-block;
+}
+.diva2{
+	height: 30px;
+	width: 30px;
+}
+.divc2{
+	height: 30px;
+	width: 150px;
+	text-align: left;
+	padding-left: 10px;
+	vertical-align: top;
+	font-weight: bold;
+}
+.divc2:hover{
+	color: rgb(0 191 255);
+	text-decoration: underline;
+}
+.d12{
+	display: inline-block;
+	height: 55px;
+
+}
+.divc12{
+	height: 15px;
+	width: 100px;
+	padding: 0px; 
+	text-align: left;
+}
+.diva12{
+	height: 25px;
+	width: 100px;
+	padding: 0px;
+}
+.d23{
+	display: inline-block;
+	height: 55px;
+	vertical-align: top;
+}
+.divc23{
+	height: 15px;
+	width: 100px;
+	padding: 0px; 
+	text-align: left;
+}
+.diva23{
+	height: 25px;
+	width: 100px;
+	padding: 0px;
+}
+.dc>*{
+	display: inline-block;
+}
+
+.dp{
+	vertical-align: top;
+}
+.divc3{
+	height: 15px;
+	width: 100px;
+	text-align: left;
+}
+.diva3{
+	height: 25px;
+	width: 100px;
+}
+.d3{
+	vertical-align: bottom;
+
+}
+.s2{
+	display: inline-block;
+	margin-top: -15px;
+
+}
