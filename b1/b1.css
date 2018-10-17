@@ -1,0 +1,25 @@
+body{
+	font-family: arial;
+	font-size: 12px;
+}
+.d1{
+	margin: 5px;
+	background-color: white;
+	height: 140px;
+	width: 120px;
+	display: inline-block;
+	border: 1px solid grey;
+}
+.d1>.p1{
+	color: orange;
+}
+.d1>.p2{
+	color: red;
+	font-weight: bold; 
+}
+.d1:hover{
+	border-color: orange;
+}
+.d1>p:hover{
+	color: blue;
+}
