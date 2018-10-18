@@ -129,7 +129,7 @@ body{
 	background-position: center;
 }
 .dma2{
-	background-image: url('img/online.gif');
+	background-image: url('img/offline.gif');
 	width: 160px;
 	height: 35px;
 	background-repeat: no-repeat;
